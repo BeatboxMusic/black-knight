@@ -124,7 +124,7 @@ body {
 
 #hero-heading {
     position: absolute;
-    top: 10%;
+    top: 100px;
     left: 60px;
     font-size: 4.73rem;
     font-weight: 800;
